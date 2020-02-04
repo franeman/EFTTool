@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.Form1.resources
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.Properties.Resources.resources
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\EFTTool.exe.config
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\EFTTool.exe
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\EFTTool.pdb
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.csproj.CopyComplete
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.exe
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.pdb
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.Resource1.resources
+C:\Users\Ethan\source\repos\EFTTool\EFTTool\obj\Debug\EFTTool.csprojAssemblyReference.cache
